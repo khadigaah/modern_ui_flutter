@@ -1,6 +1,7 @@
 # modern_ui_flutter
 
 This is a Modern UI only by Flutter Tutorial.
+![Screenshot_20240424-230430](https://github.com/khadigaah/modern_ui_flutter/assets/71988393/b9d4ad3c-1d70-45eb-9f62-45258844f04c)
 
 
 ## Getting Started
