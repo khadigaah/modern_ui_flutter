@@ -1,6 +1,8 @@
 # modern_ui_flutter
 
-A new Flutter project.
+This is a Modern UI only by Flutter Tutorial.
+
+![Screenshot_20240424-230430](https://github.com/khadigaah/modern_ui_flutter/assets/71988393/86dda801-bb7b-4927-9718-33958f6fb757)
 
 ## Getting Started
 
